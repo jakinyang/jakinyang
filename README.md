@@ -30,16 +30,17 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :male_technologist: About Me:
+### 🧑🏻‍💻 About Me:
 
 I used to defuse landmines :bomb:, now I defuse buggy code :bug:
 
-- 👀 I’m interested in ... Music, Cooking, Tree Planting
-- 🌱 I’m currently learning ... GraphQL, Swift, Firebase, and OSSU
-- 💞️ I’m looking to collaborate in ... Porting web apps effectively to mobile! (Do you want to make your app small?)
-- 📫 How to reach me ... jakin.bacon.yang@gmail.com
+- 🧨 I’m currently working on a run tracker/fitness app!
+- 🔥 Always looking to do more Music, Cooking, and Tree Planting
+- 🌱 Recently, I've been learning GraphQL, Swift, Firebase, and OSSU
+- 🫱🏻‍🫲🏽 I want to try porting web apps effectively to mobile! (Do you want to make your app small?)
+- ⚡️ Fun Fact: I used to be a landmine technician!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakinyang&theme=radical)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jakinyang&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" )
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jakinyang&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jakinyang&layout=compact&show_icons=true&theme=dark)
