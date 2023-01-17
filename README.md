@@ -93,18 +93,35 @@ You can click the Preview link to take a look at your changes.
 
 ```mermaid
 gitGraph:
-    commit "Ashish"
-    branch newbranch
-    checkout newbranch
-    commit id:"1111"
-    commit tag:"test"
+    commit id: "2015 - start 1st Year University: Psychology"
+    commit id: "2016 - start 2nd Year University: Psychology"
+    commit id: "2017 - return to Korea: Military Service"
+    branch Army
+    checkout Army
+    commit id:"2017 - complete army engineer training"
+    commit id:"2019 - deploy to mine clearing operation"
+    commit id:"2019 - complete military service"
     checkout main
-    commit type: HIGHLIGHT
-    commit
-    merge newbranch
-    commit
-    branch b2
-    commit
+    commit id: "2020 - start 3rd Year University: Psychology"
+    branch Tree Planting
+    checkout Tree Planting
+    commit id: "1st Season Tree Planting"
+    checkout main
+    commit id: "2021 - start 4th Year University: Psychology"
+    checkout Tree Planting
+    commit id: "2nd Season Tree Planting"
+    checkout main
+    commit id: "2022 - graduate from University: Psychology"
+    checkout Tree Planting
+    commit id: "3rd Season Tree Planting"
+    checkout main
+    branch Lighthouse Labs
+    checkout Lighthoue Labs
+    commit id: "Start Lighthouse Labs"
+    checkout Lighthouse Labs
+    commit id: "Finish Lighthouse Labs"
+    checkout main
+    commit id: "Present"
 ```
 
 
