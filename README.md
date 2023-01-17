@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+  <img src=https://github.com/jakinyang/jakinyang/blob/577eca6af68b225929766381ec8d05f226ac120a/resources/Olive%20and%20Yellow%20Natural%20Photocentric%20Sustainable%20Brands%20Sustainable%20Fashion%20YouTube%20Banner.gif" width="100%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jakinyang">
