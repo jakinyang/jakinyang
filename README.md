@@ -116,7 +116,7 @@ gitGraph:
     commit id: "3rd Season Tree Planting"
     checkout main
     branch Lighthouse Labs
-    checkout Lighthoue Labs
+    checkout Lighthouse Labs
     commit id: "Start Lighthouse Labs"
     checkout Lighthouse Labs
     commit id: "Finish Lighthouse Labs"
