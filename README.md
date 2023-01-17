@@ -98,27 +98,27 @@ gitGraph:
     commit id: "2017 - return to Korea: Military Service"
     branch Army
     checkout Army
-    commit id:"2017 - complete army engineer training"
-    commit id:"2019 - deploy to mine clearing operation"
-    commit id:"2019 - complete military service"
+    commit id: "2017 - complete army engineer training"
+    commit id: "2019 - deploy to mine clearing operation"
+    commit id: "2019 - complete military service"
     checkout main
     commit id: "2020 - start 3rd Year University: Psychology"
-    branch Tree Planting
-    checkout Tree Planting
+    branch TreePlanting
+    checkout TreePlanting
     commit id: "1st Season Tree Planting"
     checkout main
     commit id: "2021 - start 4th Year University: Psychology"
-    checkout Tree Planting
+    checkout TreePlanting
     commit id: "2nd Season Tree Planting"
     checkout main
     commit id: "2022 - graduate from University: Psychology"
-    checkout Tree Planting
+    checkout TreePlanting
     commit id: "3rd Season Tree Planting"
     checkout main
-    branch Lighthouse Labs
-    checkout Lighthouse Labs
+    branch LighthouseLabs
+    checkout LighthouseLabs
     commit id: "Start Lighthouse Labs"
-    checkout Lighthouse Labs
+    checkout LighthouseLabs
     commit id: "Finish Lighthouse Labs"
     checkout main
     commit id: "Present"
