@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="http://raw.githubusercontent.com/jakinyang/jakinyang/main/resources/banner.gif" width="100%"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jakinyang">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,6 +28,10 @@ You can click the Preview link to take a look at your changes.
   oh hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+</div>
 
 ---
 
