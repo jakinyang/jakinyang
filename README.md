@@ -43,13 +43,13 @@ You can click the Preview link to take a look at your changes.
 ---
 
 # 📈 Stats:
-<p align="center">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jakinyang&theme=dark)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jakinyang&layout=compact&show_icons=true&theme=dark) 
   
-</p>
+</div>
 
 <br>
 
