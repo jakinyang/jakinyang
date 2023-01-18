@@ -353,6 +353,7 @@ You can click the Preview link to take a look at your changes.
 
 ```mermaid
 gitGraph:
+    commit tag: "Move to Montreal"
     commit id: "2015 - start 1st Year University: Psychology"
     commit id: "2016 - start 2nd Year University: Psychology"
     commit id: "2017 - return to Korea: Military Service"
@@ -368,17 +369,16 @@ gitGraph:
     checkout TreePlanting
     commit id: "1st Season Tree Planting"
     checkout main
-    merge TreePlanting
     commit id: "2021 - start 4th Year University: Psychology"
     checkout TreePlanting
     commit id: "2nd Season Tree Planting"
     checkout main
-    merge TreePlanting
     commit id: "2022 - graduate from University: Psychology"
     checkout TreePlanting
     commit id: "3rd Season Tree Planting"
     checkout main
     merge TreePlanting
+    commit tag: "Move to Vancouver"
     branch LighthouseLabs
     checkout LighthouseLabs
     commit id: "Start Lighthouse Labs"
