@@ -357,6 +357,7 @@ gitGraph:
     commit id: "2015 - start 1st Year University: Psychology"
     commit id: "2016 - start 2nd Year University: Psychology"
     commit id: "2017 - return to Korea: Military Service"
+    commit tag: "Move to Korea"
     branch Army
     checkout Army
     commit id: "2017 - complete army engineer training"
@@ -364,6 +365,7 @@ gitGraph:
     commit id: "2019 - complete military service"
     checkout main
     merge Army
+    commit tag: "Move back to Montreal"
     commit id: "2020 - start 3rd Year University: Psychology"
     branch TreePlanting
     checkout TreePlanting
