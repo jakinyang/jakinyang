@@ -157,7 +157,7 @@ You can click the Preview link to take a look at your changes.
     </td>
      <td align="center" height="108" width="108">
       <img
-        src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg"
+        src="https://raw.githubusercontent.com/jakinyang/jakinyang/main/resources/apollo.svg"
         width="48"
         height="48"
         alt="APOLLO"
@@ -267,7 +267,7 @@ You can click the Preview link to take a look at your changes.
     <td>Testing</td>
     <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+        src="https://raw.githubusercontent.com/jakinyang/jakinyang/main/resources/cypress.svg"
         width="48"
         height="48"
         alt="CYPRESS"
@@ -334,7 +334,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
         width="48"
         height="48"
         alt="GITHUB"
