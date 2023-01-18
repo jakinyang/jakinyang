@@ -51,47 +51,299 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠 Languages and Tools :
 
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-            </td>
-        </tr>
-    </tbody>
+<table>  
+  <tr>
+    <td>Languages</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JAVASCRIPT"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+        width="48"
+        height="48"
+        alt="RUBY"
+      />
+      <br /><strong>Ruby</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
+        width="48"
+        height="48"
+        alt="SQL"
+      />
+      <br /><strong>SQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+        width="48"
+        height="48"
+        alt="SWIFT"
+      />
+      <br /><strong>Swift</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>UI</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="SASS"
+      />
+      <br /><strong>SASS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
+        width="48"
+        height="48"
+        alt="MATERIALUI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/callstack/react-native-paper/f7fe59d42f/docs/assets/images/paper-logo.svg"
+        width="48"
+        height="48"
+        alt="PAPER"
+      />
+      <br /><strong>Paper</strong>
+    </td>
+  </tr>
+    
+  <tr>
+    <td>Frameworks & Libraries</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://reactnative.dev/img/header_logo.svg"
+        width="48"
+        height="48"
+        alt="REACT NATIVE"
+      />
+      <br /><strong>React Native</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg"
+        width="48"
+        height="48"
+        alt="APOLLO"
+      />
+      <br /><strong>Apollo</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"
+        width="48"
+        height="48"
+        alt="RAILS"
+      />
+      <br /><strong>Rails</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="REACT"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://i.dlpng.com/static/png/7044160_preview.png"
+        width="48"
+        height="48"
+        alt="JQUERY"
+      />
+      <br /><strong>jQuery</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
+        width="48"
+        height="48"
+        alt="EJS"
+      />
+      <br /><strong>EJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"
+        width="48"
+        height="48"
+        alt="EXPO"
+      />
+      <br /><strong>Expo</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>Server and Database</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
+        width="48"
+        height="48"
+        alt="NODEJS"
+      />
+      <br /><strong>NodeJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
+        width="48"
+        height="48"
+        alt="EXPRESS"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+        width="48"
+        height="48"
+        alt="GRAPHQL"
+      />
+      <br /><strong>GraphQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="POSTGRESQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://vectorwiki.com/images/SIGDY__prisma.svg"
+        width="48"
+        height="48"
+        alt="Prisma"
+      />
+      <br /><strong>Prisma</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"
+        width="48"
+        height="48"
+        alt="Sequelize"
+      />
+      <br /><strong>Sequelize</strong>
+    </td>
+  </tr>
+   
+  <tr>
+    <td>Testing</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+        width="48"
+        height="48"
+        alt="CYPRESS"
+      />
+      <br /><strong>Cypress</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
+        width="48"
+        height="48"
+        alt="STORYBOOK"
+      />
+      <br /><strong>Storybook</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+        width="48"
+        height="48"
+        alt="JEST"
+      />
+      <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+        width="48"
+        height="48"
+        alt="MOCHA"
+      />
+      <br /><strong>Mocha</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://p7.hiclipart.com/preview/626/247/761/mocha-javascript-node-js-test-driven-development-assertion-chai-sheng.jpg"
+        width="48"
+        height="48"
+        alt="CHAI"
+      />
+      <br /><strong>Chai</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png"
+        width="48"
+        height="48"
+        alt="RSPEC"
+      />
+      <br /><strong>RSpec</strong>
+    </td>
+  </tr>  
+  
+  <tr>
+    <td>Version Control etc.</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        width="48"
+        height="48"
+        alt="GITHUB"
+      />
+       <br /><strong>Github</strong>
+    </td>
+  </tr>   
 </table>
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 ```mermaid
 gitGraph:
