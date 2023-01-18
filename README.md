@@ -30,19 +30,30 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🧑🏻‍💻 About Me
+# 🧑🏻‍💻 About Me
 
-> I used to defuse 💣 landmines 💣 ... Now I defuse 🪲 buggy code 🪲
+> ### I used to defuse 💣 landmines 💣 ... Now I defuse 🪲 buggy code 🪲
 
-- 🧨 I’m currently working on a run tracker/fitness app!
-- 🔥 Always looking to do more Music, Cooking, and Tree Planting
-- 🌱 Recently, I've been learning GraphQL, Swift, Firebase, and OSSU
-- 🫱🏻‍🫲🏽 I want to try porting web apps effectively to mobile! (Do you want to make your app small?)
-- ⚡️ Fun Fact: I used to be a landmine technician!
+### - 🧨 I’m currently working on a run tracker/fitness app!
+### - 🔥 Always looking to do more Music, Cooking, and Tree Planting
+### - 🌱 Recently, I've been learning GraphQL, Swift, Firebase, and OSSU
+### - 🫱🏻‍🫲🏽 I want to try porting web apps effectively to mobile! 
+### - ⚡️ Fun Fact: I used to be a landmine technician!
 
 ---
 
-### 🛠 Languages and Tools :
+# 📈 Stats:
+<p align="left">
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jakinyang&theme=dark)
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jakinyang&layout=compact&show_icons=true&theme=dark) 
+  
+</p>
+
+<br>
+
+# 🛠 Languages and Tools :
 
 <table>  
   <tr>
@@ -338,6 +349,8 @@ You can click the Preview link to take a look at your changes.
   </tr>   
 </table>
 
+# 🧘🏻 Recent Life 🧘🏻
+
 ```mermaid
 gitGraph:
     commit id: "2015 - start 1st Year University: Psychology"
@@ -349,28 +362,29 @@ gitGraph:
     commit id: "2019 - deploy to mine clearing operation"
     commit id: "2019 - complete military service"
     checkout main
+    merge Army
     commit id: "2020 - start 3rd Year University: Psychology"
     branch TreePlanting
     checkout TreePlanting
     commit id: "1st Season Tree Planting"
     checkout main
+    merge TreePlanting
     commit id: "2021 - start 4th Year University: Psychology"
     checkout TreePlanting
     commit id: "2nd Season Tree Planting"
     checkout main
+    merge TreePlanting
     commit id: "2022 - graduate from University: Psychology"
     checkout TreePlanting
     commit id: "3rd Season Tree Planting"
     checkout main
+    merge TreePlanting
     branch LighthouseLabs
     checkout LighthouseLabs
     commit id: "Start Lighthouse Labs"
     checkout LighthouseLabs
     commit id: "Finish Lighthouse Labs"
     checkout main
+    merge LighthouseLabs
     commit id: "Present"
 ```
-
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jakinyang&theme=dark)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jakinyang&layout=compact&show_icons=true&theme=dark)
