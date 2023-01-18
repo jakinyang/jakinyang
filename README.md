@@ -345,8 +345,12 @@ You can click the Preview link to take a look at your changes.
 ```mermaid
 gitGraph:
     commit tag: "Move to Montreal"
-    commit id: "2015 - start 1st Year University: Psychology"
-    commit id: "2016 - start 2nd Year University: Psychology"
+    branch ConcordiaUniversity
+    checkout ConcordiaUniversity
+    commit id: "2015 - start 1st Year Psychology"
+    commit id: "2016 - start 2nd Year Psychology"
+    checkout main
+    merge ConcordiaUniversity
     commit id: "2017 - return to Korea: Military Service"
     commit tag: "Move to Korea"
     branch Army
@@ -357,16 +361,19 @@ gitGraph:
     checkout main
     merge Army
     commit tag: "Move back to Montreal"
-    commit id: "2020 - start 3rd Year University: Psychology"
+    checkout ConcordiaUniversity
+    commit id: "2020 - start 3rd Year Psychology"
     branch TreePlanting
     checkout TreePlanting
     commit id: "1st Season Tree Planting"
-    checkout main
-    commit id: "2021 - start 4th Year University: Psychology"
+    checkout ConcordiaUniversity
+    commit id: "2021 - start 4th Year Psychology"
     checkout TreePlanting
     commit id: "2nd Season Tree Planting"
+    checkout ConcordiaUniversity
+    commit id: "2022 - graduate from Psychology"
     checkout main
-    commit id: "2022 - graduate from University: Psychology"
+    merge ConcordiaUniversity
     checkout TreePlanting
     commit id: "3rd Season Tree Planting"
     checkout main
