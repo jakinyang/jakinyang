@@ -23,11 +23,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div id="viewCount" align="center" ><img src="https://komarev.com/ghpvc/?username=jakinyang&style=flat-square&color=blue" alt=""/></div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  oh hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <!-- 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
@@ -35,11 +30,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🧑🏻‍💻 About Me
+## 🧑🏻‍💻 About Me
 
-> I used to defuse 💣 landmines 💣 ...
->
-> Now I defuse 🪲 buggy code 🪲
+> I used to defuse 💣 landmines 💣 ... Now I defuse 🪲 buggy code 🪲
 
 - 🧨 I’m currently working on a run tracker/fitness app!
 - 🔥 Always looking to do more Music, Cooking, and Tree Planting
