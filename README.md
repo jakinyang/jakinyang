@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="header" align="center">
-  <img src="http://raw.githubusercontent.com/jakinyang/jakinyang/main/resources/banner.gif" width="100%"/>
+  <img src="http://raw.githubusercontent.com/jakinyang/jakinyang/main/resources/bannerSlow.gif" width="100%"/>
 </div>
 
 <div id="badges" align="center">
