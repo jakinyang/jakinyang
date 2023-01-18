@@ -361,7 +361,6 @@ gitGraph:
     checkout main
     merge Army
     commit tag: "Move back to Montreal"
-    branch ConcordiaUniversity
     checkout ConcordiaUniversity
     commit id: "2020 - start 3rd Year Psychology"
     branch TreePlanting
