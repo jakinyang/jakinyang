@@ -135,18 +135,10 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="<td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/callstack/react-native-paper/f7fe59d42f/docs/assets/images/paper-logo.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg"
         width="48"
         height="48"
-        alt="PAPER"
-      />
-      <br /><strong>Paper</strong>
-    </td>"
-        width="48"
-        height="48"
-        alt="PAPER"
+        alt="THREEJS"
       />
       <br /><strong>Three.js</strong>
     </td>
