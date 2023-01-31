@@ -34,9 +34,9 @@ You can click the Preview link to take a look at your changes.
 
 > ### I used to defuse 💣 landmines 💣 ... Now I defuse 🪲 buggy code 🪲
 
-### - 🧨 I’m currently working on a portfolio site for me and my friends!
+### - 🧨 I’m currently working on a mobile and web app for reporting lost pets!
 ### - 🔥 Always looking to do more Music, Cooking, and Tree Planting
-### - 🌱 Recently, I've been learning GraphQL, Swift, ThreeJS, and SASS
+### - 🌱 Recently, I've been learning Redux, Swift, Sanity, and TailwindCSS!
 ### - 🫱🏻‍🫲🏽 I want to try porting web apps effectively to mobile! 
 ### - ⚡️ Fun Fact: I used to be a landmine technician!
 
