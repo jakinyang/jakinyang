@@ -200,6 +200,15 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Expo</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/redux.svg"
+        width="48"
+        height="48"
+        alt="REDUX"
+      />
+      <br /><strong>Redux</strong>
+    </td>
   </tr>
   <tr>
     <td>Server and Database</td>
