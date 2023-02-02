@@ -155,15 +155,6 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>React Native</strong>
     </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/jakinyang/jakinyang/main/resources/apollo.svg"
-        width="48"
-        height="48"
-        alt="APOLLO"
-      />
-      <br /><strong>Apollo</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"
@@ -265,6 +256,15 @@ You can click the Preview link to take a look at your changes.
         alt="Sequelize"
       />
       <br /><strong>Sequelize</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/jakinyang/jakinyang/main/resources/apollo.svg"
+        width="48"
+        height="48"
+        alt="APOLLO"
+      />
+      <br /><strong>Apollo</strong>
     </td>
   </tr>
    
