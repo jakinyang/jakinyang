@@ -94,6 +94,15 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Swift</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"
+        width="48"
+        height="48"
+        alt="KOTLIN"
+      />
+      <br /><strong>Kotlin</strong>
+    </td>
   </tr>
   <tr>
     <td>UI</td>
