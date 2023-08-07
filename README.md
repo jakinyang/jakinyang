@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://dev.to/jakinyang">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
   </a>
-  <a href="https://docs.google.com/document/d/1doCOGCiag0bm1H9m0uOTOa1VRIp2OjsNecpevCRH6S0/edit?usp=sharing">
+  <a href="[https://docs.google.com/document/d/1doCOGCiag0bm1H9m0uOTOa1VRIp2OjsNecpevCRH6S0/edit?usp=sharing](https://docs.google.com/document/d/1HAfrOYMKstCI7QmFwtgoL_7O2u5iTveL/edit?usp=sharing&ouid=115963109911094388381&rtpof=true&sd=true)">
     <img src="https://img.shields.io/badge/resume-green?style=for-the-badge&logo=&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
