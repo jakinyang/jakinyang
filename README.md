@@ -8,16 +8,16 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jakinyang">
+  <a href="https://www.linkedin.com/in/jakinyang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jakin.bacon.yang@gmail.com">
+  <a href="mailto:jakin.bacon.yang@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://dev.to/jakinyang">
+  <a href="https://dev.to/jakinyang" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
   </a>
-  <a href="https://docs.google.com/document/d/1HAfrOYMKstCI7QmFwtgoL_7O2u5iTveL/edit?usp=sharing&ouid=115963109911094388381&rtpof=true&sd=true">
+  <a href="https://docs.google.com/document/d/1HAfrOYMKstCI7QmFwtgoL_7O2u5iTveL/edit?usp=sharing&ouid=115963109911094388381&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/resume-green?style=for-the-badge&logo=&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
