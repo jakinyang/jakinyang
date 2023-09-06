@@ -414,13 +414,17 @@ gitGraph:
     commit id: "3rd Season Tree Planting"
     checkout main
     merge TreePlanting
-    commit tag: "Move to Vancouver"
+    commit tag: "2022 - Move to Vancouver"
     branch LighthouseLabs
     checkout LighthouseLabs
-    commit id: "Start Lighthouse Labs"
+    commit id: "2022 - Start Lighthouse Labs"
     checkout LighthouseLabs
-    commit id: "Finish Lighthouse Labs"
+    commit id: "2023 - Finish Lighthouse Labs"
     checkout main
     merge LighthouseLabs
+    branch Taddy
+    checkout Taddy
+    commit id: "2023 - Start Developer Role at Taddy"
+    commit id: "Release Alpha of Bam! Webtoons App"
     commit id: "Present"
 ```
