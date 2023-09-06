@@ -419,9 +419,11 @@ gitGraph:
     checkout LighthouseLabs
     commit id: "2022 - Start Lighthouse Labs"
     checkout LighthouseLabs
-    commit id: "2023 - Finish Lighthouse Labs"
     checkout main
     merge LighthouseLabs
+    commit id: "2023 - Finish Lighthouse Labs"
+    commit id: "Start Job Search"
+    commit id: "Get hired at Taddy"
     branch Taddy
     checkout Taddy
     commit id: "2023 - Start Developer Role at Taddy"
