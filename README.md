@@ -32,13 +32,13 @@ You can click the Preview link to take a look at your changes.
 
 # 🧑🏻‍💻 About Me
 
-> ### I used to defuse 💣 landmines 💣 ... Now I defuse 🪲 buggy code 🪲
+> I used to defuse 💣 landmines 💣 ... Now I defuse 🪲 buggy code 🪲
 
-### - 🧨 I’m currently working on a mobile app to make networking at events more fun!
-### - 🔥 Always looking to do more Music, Cooking, and Tree Planting
-### - 🌱 Recently, I've been learning TDD with React Native, Swift, Kotlin, Redux, and Three.js
-### - 🫱🏻‍🫲🏽 I want to try porting web apps effectively to mobile
-### - ⚡️ Fun Fact: I used to be a landmine technician!
+- 🧨 I’m currently working on a mobile app to make networking at events more fun!
+- 🔥 Always looking to do more Music, Cooking, and Tree Planting
+- 🌱 Recently, I've been learning TDD with React Native, Swift, Kotlin, Redux, and Three.js
+- 🫱🏻‍🫲🏽 I want to try porting web apps effectively to mobile
+- ⚡️ Fun Fact: I used to be a landmine technician!
 
 ---
 
